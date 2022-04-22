@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![gif1](https://giphy.com/gifs/jonvY7b3agfNrxfWXq)
-![gif2](https://giphy.com/gifs/ahLzZdDeRykut0Uc12)
+![](https://github.com/willc142/codepathprework/blob/main/codepathprework.gif)
+![](https://github.com/willc142/codepathprework/blob/main/codepathprework2.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
